@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Duck body -->
+  <ellipse cx="50" cy="60" rx="30" ry="25" fill="#FFD700"/>
+  
+  <!-- Duck head -->
+  <circle cx="50" cy="40" r="20" fill="#FFD700"/>
+  
+  <!-- Eyes -->
+  <circle cx="45" cy="38" r="3" fill="#000"/>
+  <circle cx="55" cy="38" r="3" fill="#000"/>
+  <circle cx="46" cy="37" r="1.5" fill="#fff"/>
+  <circle cx="56" cy="37" r="1.5" fill="#fff"/>
+  
+  <!-- Beak -->
+  <ellipse cx="50" cy="45" rx="6" ry="4" fill="#FF8C00"/>
+  
+  <!-- Wings -->
+  <ellipse cx="30" cy="58" rx="12" ry="8" fill="#FFC700" transform="rotate(-20 30 58)"/>
+  <ellipse cx="70" cy="58" rx="12" ry="8" fill="#FFC700" transform="rotate(20 70 58)"/>
+  
+  <!-- Feet -->
+  <ellipse cx="45" cy="82" rx="6" ry="3" fill="#FF8C00"/>
+  <ellipse cx="55" cy="82" rx="6" ry="3" fill="#FF8C00"/>
+</svg>
